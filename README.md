@@ -1,1 +1,1 @@
-# simulador-hdr-pozo-unico
+# Gradientes geotermicos en colombia
